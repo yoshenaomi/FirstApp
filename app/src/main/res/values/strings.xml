@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Get To Know More Kpops</string>
+    <string name="kpops_name">Nama Artis Kpop</string>
+    <string name="detail">Detail</string>
+    <string name="about">Tentang</string>
+    <string name="share">Bagikan Informasi</string>
+    <string name="namaku">Yoshe Naomi Vici Aflaha</string>
+    <string name="alamatemail">Alamat Email :</string>
+    <string name="email">yoshenaomiviciaflaha@gmail.com</string>
+    <string name="kampus">Asal Kampus :</string>
+    <string name="asal">Politeknik Negeri Banyuwangi</string>
+    <string name="lp">Learning Path :</string>
+    <string name="kb">Mobile Development</string>
+</resources>
